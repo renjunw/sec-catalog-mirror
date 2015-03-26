@@ -15,3 +15,9 @@ http://www.securitysift.com/
 http://www.irongeek.com/
 
 http://packetstormsecurity.com/
+
+
+Reverse Engineering
+=====================
+
+http://thedutchjewel.defcon5.biz/re.html
