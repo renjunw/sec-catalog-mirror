@@ -16,8 +16,18 @@ http://www.irongeek.com/
 
 http://packetstormsecurity.com/
 
+http://j00ru.vexillium.org/
+
 
 Reverse Engineering
 =====================
 
 http://thedutchjewel.defcon5.biz/re.html
+
+
+
+
+CTF
+=====================
+
+http://blog.dragonsector.pl/
