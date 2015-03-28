@@ -34,3 +34,13 @@ CTF
 =====================
 
 http://blog.dragonsector.pl/
+
+
+course video
+=====================
+
+http://opensecurity.in/
+
+https://www.youtube.com/user/OpenSecurityIN/videos
+
+
