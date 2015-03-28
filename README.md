@@ -19,6 +19,9 @@ http://packetstormsecurity.com/
 http://j00ru.vexillium.org/
 
 
+https://defcon.org/html/links/links-o-rama.html
+
+
 Reverse Engineering
 =====================
 
