@@ -36,6 +36,8 @@ CTF
 http://blog.dragonsector.pl/
 
 
+
+
 course video
 =====================
 
@@ -43,4 +45,6 @@ http://opensecurity.in/
 
 https://www.youtube.com/user/OpenSecurityIN/videos
 
+https://www.youtube.com/channel/UCthV50MozQIfawL9a_g5rdg
 
+https://www.youtube.com/user/debianinside/videos
